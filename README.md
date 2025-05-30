@@ -23,22 +23,8 @@
     <section id="sobre">
         <div class="container">
             <h1>Sobre Bryan Mattos</h1>
-            <p>Olá, meu nome é Bryan Mattos e sou profissional na área de mecânica. Tenho experiência com...</p>
+            <p>Olá, meu nome é Bryan Mattos e sou profissional na área de mecânica. Tenho experiência com a área por cerca de 2 anos, sou especializado na area de injeção eletônica
             <img src="sua-imagem.jpg" alt="Bryan Mattos" class="foto">
-        </div>
-    </section>
-
-    <section id="servicos">
-        <div class="container">
-            <h2>Serviços</h2>
-            <div class="servico">
-                <h3>Manutenção Automotiva</h3>
-                <p>Descrição do serviço de manutenção automotiva...</p>
-            </div>
-            <div class="servico">
-                <h3>Reparos em Máquinas</h3>
-                <p>Descrição de reparos em máquinas...</p>
-            </div>
         </div>
     </section>
 
@@ -47,12 +33,6 @@
             <h2>Projetos</h2>
             <div class="projeto">
                 <h3>Projeto 1: Reparação de Motor de Carro</h3>
-                <p>Detalhes sobre o projeto de reparação de motor de carro...</p>
-            </div>
-            <div class="projeto">
-                <h3>Projeto 2: Manutenção de Equipamento Industrial</h3>
-                <p>Detalhes sobre o projeto de manutenção de equipamento industrial...</p>
-            </div>
         </div>
     </section>
 
